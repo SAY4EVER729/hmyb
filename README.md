@@ -1,5 +1,7 @@
 # hmyb      
-how much is your belief      
+how much is your belief
+
+aim to visualize your beliefs
 
 
 
